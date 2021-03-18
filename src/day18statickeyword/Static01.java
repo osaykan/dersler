@@ -1,6 +1,6 @@
 package day18statickeyword;
 
-public class Static01 {
+public  class Static01 {
 
 	static int en = 12;
 	static int boy = 10;
@@ -35,7 +35,8 @@ public class Static01 {
 	}
 
 
-//static class olusturulabilir ama alt classlar(inner class) static class olabilir.Üst classlar (auter class) static olamazlar.
+//static class olusturulabilir ama alt classlar(inner class) static class olabilir.
+	//Üst classlar (auter class) static olamazlar.
 
 
  static class AltClass {

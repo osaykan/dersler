@@ -23,10 +23,4 @@ public class Scanner05 {
 		
 		System.out.println("Dairenin Alani :" + 3.14159*yaricap*yaricap);
 		System.out.println("Dairenin Cevresi : " + 2*3.14159*yaricap);
-		
-		
-		scan.close();	
-
-	}
-
-}
+	}}

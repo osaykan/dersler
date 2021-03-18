@@ -1,6 +1,8 @@
 package day38interviewhazirlik;
 
 public class PassByValuePassByReference {
+	
+	
 
 	public static void main(String[] args) {
 		//Bir method'a variable yollandiginda Java o variable nin kopyasini olusturur ve
